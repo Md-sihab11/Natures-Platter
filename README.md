@@ -6,7 +6,7 @@ user-friendly layout with attractive sections and responsive styling.
 
 ## 🚀 Live Website
 
-[Visit Nature's Platter](YOUR_LIVE_LINK_HERE)
+[Visit Nature's Platter](https://md-sihab11.github.io/Natures-Platter/)
 
 ## 📸 Project Overview
 
